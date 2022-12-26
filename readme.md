@@ -1,7 +1,5 @@
 Good websites
 
-TODO: 
+TODO:
 
-* Html/Css design
-
-
+* CSS design
